@@ -1,4 +1,4 @@
-# Data-analysis-of-Kuala-Lumpur-data
+# Business-development-location-prediction-in-Malasiya
 **Data:** <br>
 - List of neighborhoods in Kuala Lumpur. This defines the scope of this project which is confined to the city of Kuala Lumpur, the capital city of the country of Malaysia in South East Asia. <br>
 - Latitude and longitude coordinates of those neighborhoods. This is required in order to plot the map and also to get the venue data.<br>
